@@ -21,10 +21,4 @@ def echo_all(message):
 
 bot.polling()
 
-# matn = input("matin kiriting")
-
-# if matn.isascii():
-#   print(to_cyrillic(matn))
-# else:
-#   print(to_latin(matn))
 
